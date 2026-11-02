@@ -20,7 +20,7 @@ AI tools have been used to speed up and ASSIST (not replace) myself in the rever
 
 The stock LOOI application locks several features behind server-side configurations and hardware sensors. Through targeted Smali code manipulation, I have successfully bypassed some of these limits. As a response to my work, starting from the 2.6.1 update, TangibleFuture has implemented a paid (and expensive) version of the Jiagu 360 packer and obfuscator, making code on those versions much harder to access. Jiagu 360 was already implemented in older versions, but due to its configuration, it was not impacting code access in any way.
 
-Recently this year, after the TangibleFuture team has reviewed their decision, have chosen to give me access to development versions of the app, allowing me to work and debug much faster compared to the protected-app workflow. After seeing my POC mods for the developer builds, TangibleFuture has backed up and decided to delete all beta versions of the app altogether, cutting me off from accessing unlocked versions of the app.
+Recently this year, after the TangibleFuture team has reviewed their decision, have chosen to give me access to development versions of the app, allowing me to work and debug much faster compared to the protected-app workflow. TangibleFuture has then deleted all beta versions of the app altogether, but started pushing unprotected versions of the app to the app store, still allowing people to modify the application.
 
 ### Update Check Bypass
 
